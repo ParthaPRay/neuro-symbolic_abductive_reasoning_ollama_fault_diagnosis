@@ -1,10 +1,3 @@
-# neuro-symbolic_abductive_reasoning_fault_diagnosis
-This repo presents codes that allows user to run localized Ollama based Reasoning LLM to integrate with neuro-symbolic abductive reasoning for fault diagnosis
-
-Certainly! Here’s a **revised README.md** that clearly emphasizes the **neuro-symbolic AI**, **abductive reasoning**, and the motivation behind using this paradigm with local LLMs via Ollama.
-
----
-
 # Neuro-Symbolic Abductive Reasoning with Ollama Local LLMs
 
 **Author:** Partha Pratim Ray
