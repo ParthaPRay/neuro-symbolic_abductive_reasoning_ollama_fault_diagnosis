@@ -76,7 +76,7 @@ The tool performs **abductive reasoning** to infer, explain, and rank possible r
 3. Run the script:
 
    ```bash
-   python <scriptname>.py
+   python app.py
    ```
 4. Enter your sensor event description when prompted.
 5. Review the diagnosis on-screen and in `llm_abduction_log.csv`.
