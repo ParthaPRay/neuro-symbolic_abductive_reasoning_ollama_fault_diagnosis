@@ -1,7 +1,9 @@
 # Neuro-Symbolic Abductive Reasoning with Ollama Local LLMs
 
 **Author:** Partha Pratim Ray
+
 **Contact:** [parthapratimray1986@gmail.com](mailto:parthapratimray1986@gmail.com)
+
 **Date:** 27 June, 2025
 
 ---
@@ -58,7 +60,7 @@ The tool performs **abductive reasoning** to infer, explain, and rank possible r
 
 ### Prerequisites
 
-* **Python 3.8+**
+* **Python 3.11+**
 * **Ollama** running locally ([installation guide](https://ollama.com/download))
 * At least one supported model:
 
